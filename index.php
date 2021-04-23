@@ -32,7 +32,7 @@
     </form>
     <hr>
     <br><br>
-    <h2>Ispis svih voca</h2>
+    <h2>Ispis voca</h2>
 
     <?php if(!empty($voca)): ?>
         <table border="1">
