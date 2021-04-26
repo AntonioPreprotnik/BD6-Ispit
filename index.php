@@ -54,5 +54,9 @@
         </table>
     <?php endif; ?>
     <hr>
+    <br>
+    <br>
+    <br>
+    Ovo je dodao predavač za provjeru implementacije i konfiguracije CI/CD dijela ispita.
 </body>
 </html>
